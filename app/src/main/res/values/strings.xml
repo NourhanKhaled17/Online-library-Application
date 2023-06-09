@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">تزوّد</string>
+    <string name="description">أقرأ في كل وقت وفي كل مكان</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="login_google">تسجيل الدخول بحساب جوجل</string>
+    <string name="signup_google">إنشاء حساب بحساب جوجل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="person">الاسم كامل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="Or">أو</string>
+    <string name="Dont_have_an_account">هل ليس لديك حساب؟ إنشاء حساب</string>
+    <string name="phone">رقم المحمول</string>
+    <string name="do_you_have_an_account">هل لديك حساب؟ سجِل</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt1">تزوّد</string>
+    <string name="paragraph1">يوجد جميع أقسام الكتب والروايات متوفرة مجاناً للقراءة في اي وقت ويمكن تحميلها أو شراء نسخة ورقية.</string>
+    <string name="paragraph2">تطبيق يوفر لك أيضًا العديد من البودكاست والكتب المسموعة لتستفيض في ما تحب.</string>
+    <string name="get_start">ابدأ</string>
+    <string name="skip">تخطي</string>
+    <string name="paragraph3">ابدأ لكي يمكنك القراءة والاستماع لكتبك وروياتك المفضلة.</string>
+    <string name="book_name">الجثة الخامسة - الجزء الأول</string>
+    <string name="fear_name">الجثة الخامسة</string>
+    <string name="author_name">حسين السيد</string>
+    <string name="rating">التقييم</string>
+    <string name="pages">الصفحات</string>
+    <string name="language">اللغة</string>
+    <string name="price">السعر</string>
+    <string name="listen">استمع الآن</string>
+    <string name="_4_7">4.7</string>
+    <string name="_226">226</string>
+    <string name="arabic">العربية</string>
+    <string name="read">اقرأ الآن</string>
+    <string name="about_book">عن الكتاب</string>
+    <string name="paragraph_book1">هناك جثة خامسة , وهناك جثث أخرى غيرها تنتظر دورها فى الرواية , وهناك عمال المشرحة المذعورين .. هناك لعنة غامضة تمرح خفية بين الجميع وهناك شر محدق, وكارثة أخشاها بشدة تنتظر أن تتحقق.. هناك طبيب نفسي عجوز يعرف الكثير جدا, وما يعرفه يثير الهلع في النفوس ,فهل يحتفظ به لنفسه, أم يخبرهم ليبصيبهم بالجنون؟!.. وهناك كتاب اللعنات, وهو لمن لا يعرفه كارثة حقيقية بين دفتي كتاب.. وهناك راهب روماني عرف أكثر مما ينبغي’ فنال عقابه .. وفى النهاية هناك قارئ شرس ينتظر من هذه الرواية الكثير , وهناك الكاتب الذى وعد بالكثير في هذه الرواية, ويرجو أن ينجو برقبته من غضب القارئ.. إنها رحلة مختلفة .. فهل أنت مستعد لها ؟.. لو شئت أن تفعل فأنا في انتظارك .. وهيا بنا .</string>
+    <string name="about_author">عن الكاتب</string>
+    <string name="paragraph_book2">ولد الكاتب والروائى حسين السيد بجمهورية مصر العربية حيث أنه نشأ وترعرع بالقاهرة الكبرى وتلقى تعليمه بمدارسها وأكمل تعليمه الجامعى بجامعة عين شمس كلية الصيدلة وتخرج منها وأصبح دكتورًا صيدلانيًا ، وعلى الرغم من نجاحه فى حياته المهنية وتخصصه المهم جدا والصعب فى آن واحد وأنه يتوجب عليه التركيز فيه وعدم الإخلال به لأنه متعلق بأرواح الكثيرين ، إلا أنه كان مجتهدًا بعمله ولم يقف عند هذا الحد بل أن طموحه أن يصبح كاتبًا عظيمًا ومشهورًا جعله ينمى قدراته الكتابية .( له مجموعة من المؤلفات أبرزها " الجثة الخامسة ❝ " رواية قربان بشري ❝ " رواية نجع الموتى ❝ الناشرين : " دار نون للنشر والتوزيع ❝ " دار إبداع للإعلام والنشر ❝ )</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="home2">الرئيسية</string>
+    <string name="favorites">المفضلة</string>
+    <string name="shopping_cart">العربة</string>
+    <string name="profile">الحساب</string>
+    <string name="search_text">كتب، روايات أو مؤلفين</string>
+    <string name="search_text_religion">بحث</string>
+    <string name="search">بحث</string>
+    <string name="title">العنوان</string>
+    <string name="categories">التصنيفات</string>
+    <string name="favorites_is_empty">لا يوجد لديك كُتب في المفضلة</string>
+    <string name="categories_is_empty">التصنيفات فارغة مؤقتًا</string>
+    <string name="cart_is_empty">العربة فارغة</string>
+    <string name="type">رعب</string>
+    <string name="book1_name">الرحيق المختوم</string>
+    <string name="book1_description"> حيث أورد الكاتب في كتابه أربعة فصول تحدّث فيها عن العرب قبل الإسلام..</string>
+    <string name="religion">السيرة النبوية</string>
+    <string name="crime">جريمة وغموض</string>
+    <string name="developing">تطوير الذات</string>
+    <string name="history">تاريخ</string>
+    <string name="policy">سياسة</string>
+    <string name="fantasy">خيال علمي</string>
+    <string name="liter">الأدب</string>
+    <string name="nov">روايات</string>
+    <string name="law">قانون</string>
+    <string name="fqh">فقة</string>
+    <string name="philosophy">فلسفة</string>
+    <string name="quantity">الكمية</string>
+    <string name="total_price">السعر الإجمالي</string>
+    <string name="buy">شراء</string>
+    <string name="_5">5</string>
+    <string name="author_name2">أحمد خالد توفيق</string>
+    <string name="author">كاتب</string>
+    <string name="author_books">المؤلفات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="edit">تعديل البيانات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="ned_stark">Ned Stark</string>
+    <string name="_20_1028946618">+20 1028946618</string>
+    <string name="profile_name">محمد شعبان أحمد</string>
+    <string name="todo">TODO</string>
+    <string name="night_mode">الوضع الليلي</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="private_account">حساب خاص</string>
+    <string name="privacy_security">الخصوصية والامان</string>
+    <string name="text_size">حجم الخط</string>
+    <string name="send_us_messages">ارسل لنا رسالة</string>
+    <string name="about_us">عن فريق العمل</string>
+    <string name="faqs">الاسئلة المتكررة</string>
+
+    <string-array name="quantity_string_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5(الاقصى)</item>
+    </string-array>
+
+</resources>
